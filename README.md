@@ -1,1 +1,2 @@
-[Telegram Blum](https://t.me/BlumCryptoBot/app?startapp=ref_ZaPCLmyAt5)
+[Telegram Blum](https://t.me/blum/app?startapp=ref_yD0djAQvIT)
+Notif to Telegram
